@@ -1,0 +1,11 @@
+cshell
+*.o
+*.a
+*.so
+.DS_Store
+.vscode/
+*.out
+*.swp
+*.swo
+*~
+.git/
